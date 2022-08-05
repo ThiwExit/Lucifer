@@ -111,7 +111,7 @@ def File2():
 			clear()
 			banner()
 			try:
-				fileX = input ('\x1b[1;90m───────────────────────────────────────────────────\n\x1b[1;93mm WHATSAPP\x1b[1;90m : \x1b[1;97m+923182944185\x1b[1;93m㋱━─\n\x1b[1;90m───────────────────────────────────────────────────\n   \x1b[1;90m[\x1b[1;97m>_\x1b[1;90m]\x1b[1;97m input your file\x1b[1;90m :\x1b[1;92m ') 
+				fileX = input ('\x1b[1;90m───────────────────────────────────────────────────\n\x1b[1;93mm WHATSAPP\x1b[1;90m : \x1b[1;97m+48 699555512\x1b[1;93m㋱━─\n\x1b[1;90m───────────────────────────────────────────────────\n   \x1b[1;90m[\x1b[1;97m>_\x1b[1;90m]\x1b[1;97m input your file\x1b[1;90m :\x1b[1;92m ') 
 				for line in open(fileX, 'r').readlines():
 					id.append(line.strip())
 				setting()
